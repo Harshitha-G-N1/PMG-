@@ -1,2 +1,2 @@
-# PMG-
+# PMG
 This is my PMG Program
